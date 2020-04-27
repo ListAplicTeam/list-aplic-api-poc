@@ -1,13 +1,9 @@
-# List Aplic API (POC)
+# ListAplic API
 
-This project is just a proof of concept (PoC) to validate the list-aplic-api project architecture.
+Back-end da API Rest da prova de conceito feita para o projeto [ListAplic](https://github.com/team-list-aplic/list-aplic-web).
 
-### Prerequisites
+Trabalho feito como projeto de conclusão do curso de graduação em Engenharia de Software da Universidade Federal de Goiás, no semestre 2019-1.
 
-* Java 8
+## Licença
 
-## Accessing the API
-
-[https://list-aplic-api-poc.herokuapp.com/api/swagger-ui.html][https://list-aplic-api-poc.herokuapp.com/api/swagger-ui.html]
-
-[https://list-aplic-api-poc.herokuapp.com/api/swagger-ui.html]: https://list-aplic-api-poc.herokuapp.com/api/swagger-ui.html
+[Apache 2.0](LICENSE)
